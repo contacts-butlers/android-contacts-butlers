@@ -7,8 +7,13 @@ etc? Do you really know the contacts you saved? Did you save the same contact se
 your favorite contacts really deserving of being favorites? Do you  want to groom your contacts a 
 bit, whenever you are bored, have free time, or just fed up with being disorganized? 
 
-Well, then, you have come to the right place! This application provides you tons of butlers from 
-the open source community that will help you groom your contacts using the power of LOVE <3
+Well, then, you have come to the right place! This application provides you the personification of 
+the contributors in the open source community in the form of butlers. Every butler has their own 
+personality and expertise. Different butlers will detect different contacts that need grooming based 
+on different sets of needs. All butlers have one thing in common. They will help you groom your 
+contacts using the power of LOVE <3
+
+For a list of all butlers, who they are and what they do, read [BUTLERS.md](/BUTLERS.md)
 
 ## Free, open source software (FOSS)
 
@@ -26,7 +31,7 @@ This repository is split up in to as many different modules as possible in order
 
 - give contributors a sense of ownership and personalization of their own module
 - cater to the differing levels of expertise in Android
-- modularize the app, which is in short a good practice
+- modularize the app, which is, to summarize, a good practice
 
 Let's have fun building this app and remember that the most important thing is to get a working, 
 pleasant FOSS product.
@@ -36,7 +41,7 @@ For more guidelines on how to contribute, read [CONTRIBUTING](/CONTRIBUTING.md)
 ## Powered by the Android Contacts, Reborn Library
 
 This app is powered by the [Android Contacts, Reborn library](https://github.com/vestrel00/contacts-android),
-which made contacts management like a walk in the park =) 
+which makes contacts management like a walk in the park =) 
 
 ![Contacts, Reborn Banner](/powered-by-banner.png)
 
@@ -46,7 +51,7 @@ TODO link to store listing when app has been released!
 
 ## License
 
-    Copyright 2021 Contacts Butler Contributors
+    Copyright 2021 Android Contacts Butlers
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

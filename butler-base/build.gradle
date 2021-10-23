@@ -1,5 +1,5 @@
 plugins {
-    id 'com.android.application'
+    id 'com.android.library'
     id 'kotlin-android'
 }
 
@@ -7,10 +7,6 @@ android {
     compileSdkVersion versions.build.android.compileSdk
 
     defaultConfig {
-        // TODO Set this before initial production rollout
-        // versionCode 1
-        // versionName "1.0.0"
-
         minSdkVersion versions.build.android.minSdk
         targetSdkVersion versions.build.android.targetSdk
     }
@@ -22,7 +18,5 @@ android {
 }
 
 dependencies {
-    implementation libraries.kotlin.coroutines
-    implementation libraries.kotlin.coroutinesAndroid
     implementation libraries.kotlin.standardLib
 }
