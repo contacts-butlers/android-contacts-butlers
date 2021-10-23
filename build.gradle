@@ -1,0 +1,58 @@
+buildscript {
+    ext {
+        versions = [
+                build : [
+                        java   : [
+                                targetCompatibility: JavaVersion.VERSION_1_7,
+                                sourceCompatibility: JavaVersion.VERSION_1_7
+                        ],
+                        android: [
+                                minSdk    : 19,
+                                targetSdk : 31,
+                                compileSdk: 31,
+
+                                gradle    : '4.1.0',
+                        ]
+                ],
+
+                kotlin: [
+                        core      : '1.4.32',
+                        coroutines: '1.4.2'
+                ],
+
+                contacts: '0.1.6'
+        ]
+
+        libraries = [
+                kotlin: [
+                        standardLib      : "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$versions.kotlin.core",
+                        coroutines       : "org.jetbrains.kotlinx:kotlinx-coroutines-core:$versions.kotlin.coroutines",
+                        coroutinesAndroid: "org.jetbrains.kotlinx:kotlinx-coroutines-android:$versions.kotlin.coroutines"
+                ],
+
+                contacts: "com.github.vestrel00.contacts-android:$versions.contacts"
+        ]
+    }
+
+
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$versions.build.android.gradle"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$versions.kotlin.core"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
