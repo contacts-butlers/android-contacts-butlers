@@ -7,8 +7,8 @@ etc? Do you really know the contacts you saved? Did you save the same contact se
 your favorite contacts really deserving of being favorites? Do you  want to groom your contacts a 
 bit, whenever you are bored, have free time, or just fed up with being disorganized? 
 
-Well, then, you have come to the right place! This application provides you your own personalized 
-butler that will help you groom your contacts =) 
+Well, then, you have come to the right place! This application provides you tons of butlers from 
+the open source community that will help you groom your contacts using the power of LOVE <3
 
 ## Free, open source software (FOSS)
 
@@ -17,20 +17,28 @@ This software is made by the community, for the community and everyone else <3
 ## Beginner-friendly contributions
 
 We urge you, yes YOU, to contribute to this FOSS. Whether you are just in elementary, high school,
-college, or a professional, you are welcome to contribute! The contribution philosophy is to keep
-things as simple as possible while still using the latest and greatest tech such as those included
-in [Jetpack](https://developer.android.com/jetpack).
+college, a professional, or just curious about Android development, you are welcome to contribute! 
 
-This repository is split up to as many different modules as possible in order to;
+The contribution philosophy is to keep things as simple as possible while still using the latest 
+and greatest tech such as those included in [Jetpack](https://developer.android.com/jetpack).
 
-- cater to the differing levels of experience in Android
-- give contributors a sense of ownership and expertise
+This repository is split up in to as many different modules as possible in order to;
+
+- give contributors a sense of ownership and personalization of their own module
+- cater to the differing levels of expertise in Android
 - modularize the app, which is in short a good practice
 
 Let's have fun building this app and remember that the most important thing is to get a working, 
-pleasant product.
+pleasant FOSS product.
 
-For more guidelines on how to contribute, read the [CONTRIBUTING](/CONTRIBUTING.md)
+For more guidelines on how to contribute, read [CONTRIBUTING](/CONTRIBUTING.md)
+
+## Powered by the Android Contacts, Reborn Library
+
+This app is powered by the [Android Contacts, Reborn library](https://github.com/vestrel00/contacts-android),
+which made contacts management like a walk in the park =) 
+
+![Contacts, Reborn Banner](/powered-by-banner.png)
 
 ## Get it on the Google Play Store
 
