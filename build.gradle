@@ -30,10 +30,10 @@ buildscript {
                         coroutinesAndroid: "org.jetbrains.kotlinx:kotlinx-coroutines-android:$versions.kotlin.coroutines"
                 ],
 
-                contacts: "com.github.vestrel00.contacts-android:$versions.contacts"
+                contacts: [
+                        core:   "com.github.vestrel00.contacts-android:core:$versions.contacts"
+                ]
         ]
-        versions.kotlin.core = '1.4.32'
-        versions.kotlin.core = '1.4.32'
     }
 
 

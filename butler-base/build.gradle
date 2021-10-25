@@ -18,5 +18,7 @@ android {
 }
 
 dependencies {
+    api libraries.contacts.core
+
     implementation libraries.kotlin.standardLib
 }

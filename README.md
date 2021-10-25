@@ -3,17 +3,16 @@
 ![Contacts Butler Banner](/banner.png)
 
 Do you have a bunch of contacts that are missing a lot of info such as names, emails, phone numbers, 
-etc? Do you really know the contacts you saved? Did you save the same contact several times? Are 
-your favorite contacts really deserving of being favorites? Do you  want to groom your contacts a 
-bit, whenever you are bored, have free time, or just fed up with being disorganized? 
+etc? How much do you really know the contacts you saved? Did you save the same contact several 
+times? Are your favorite contacts really deserving of being favorites? Does your spouse or partner
+really love you? 
 
-Well, then, you have come to the right place! This application provides you the personification of 
-the contributors in the open source community in the form of butlers. Every butler has their own 
-personality and expertise. Different butlers will detect different contacts that need grooming based 
-on different sets of needs. All butlers have one thing in common. They will help you groom your 
-contacts using the power of LOVE <3
+If you want answers to all of these questions, then you have come to the right place! This 
+application provides you the personification of the contributors in the open source community in 
+the form of butlers. Using the power of LOVE, our butlers will ensure that your contacts are fully 
+groomed <3
 
-For a list of all butlers, who they are and what they do, read [BUTLERS.md](/BUTLERS.md)
+This is not your typical "contacts cleaner" app!
 
 ## Free, open source software (FOSS)
 
@@ -27,16 +26,12 @@ college, a professional, or just curious about Android development, you are welc
 The contribution philosophy is to keep things as simple as possible while still using the latest 
 and greatest tech such as those included in [Jetpack](https://developer.android.com/jetpack).
 
-This repository is split up in to as many different modules as possible in order to;
-
-- give contributors a sense of ownership and personalization of their own module
-- cater to the differing levels of expertise in Android
-- modularize the app, which is, to summarize, a good practice
-
 Let's have fun building this app and remember that the most important thing is to get a working, 
 pleasant FOSS product.
 
-For more guidelines on how to contribute, read [CONTRIBUTING](/CONTRIBUTING.md)
+For a list of all butlers and the jobs they do, read [BUTLERS.md](/BUTLERS.md).
+
+You can be a butler too! Read more on how to contribute in [CONTRIBUTING](/CONTRIBUTING.md)!
 
 ## Powered by the Android Contacts, Reborn Library
 
