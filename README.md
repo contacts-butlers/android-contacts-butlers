@@ -1,14 +1,19 @@
-# Contacts Butler
+# Android Contacts Butlers
 
-![Contacts Butler Banner](/banner.png)
+![Contacts Butlers Banner](/banner.png)
 
-Do you have a bunch of contacts that are missing a lot of info such as names, emails, phone numbers, 
+Do you really know the contacts you saved in your phone? Are your favorite contacts really deserving
+of being favorites? Does your mother love you? Is your partner cheating on you? Maybe you should 
+text your friends once in a while to reconnect? Did you make friends with scammers? 
+
+Well... this app just **might** help you answer these questions, and more! If nothing else, at the 
+very least it should give you a smile and brighten your day :D 
+
+Maybe you want  you have a bunch of contacts that are missing a lot of info such as names, emails, phone numbers, 
 etc? How much do you really know the contacts you saved? Did you save the same contact several 
-times? Are your favorite contacts really deserving of being favorites? Does your spouse or partner
-really love you? 
+times? 
 
-If you want answers to all of these questions, then you have come to the right place! This 
-application provides you the personification of the contributors in the open source community in 
+This Android app provides you the personification of the contributors in the open source community in 
 the form of butlers. Using the power of LOVE, our butlers will ensure that your contacts are fully 
 groomed <3
 
@@ -27,7 +32,7 @@ The contribution philosophy is to keep things as simple as possible while still 
 and greatest tech such as those included in [Jetpack](https://developer.android.com/jetpack).
 
 Let's have fun building this app and remember that the most important thing is to get a working, 
-pleasant FOSS product.
+fun FOSS product.
 
 For a list of all butlers and the jobs they do, read [BUTLERS.md](/BUTLERS.md).
 
